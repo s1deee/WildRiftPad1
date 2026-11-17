@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WildRiftPad</string>
+    <string name="service_description">Превращает кнопки и стики геймпада в касания экрана по точкам, которые вы задали (раскладка для Wild Rift). Служба не читает содержимое экрана, она только перехватывает кнопки геймпада и имитирует касания.</string>
+</resources>
